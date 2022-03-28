@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/gildobernardes">
-  (https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Gildo GitHub stats](https://github-readme-stats.vercel.app/api?username=gildobernardes)](https://github.com/anuraghazra/github-readme-stats)
+  [![Gildo Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gildobernardes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gildo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

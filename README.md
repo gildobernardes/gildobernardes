@@ -16,7 +16,7 @@
   <img align="center" alt="Gildo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gildo-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Gildo-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</di><br/>
+</div><br/>
 
 ## Alguns projetos:
 - [projeto-android](https://gildobernardes.github.io/projeto-android/#)

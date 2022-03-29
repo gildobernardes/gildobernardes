@@ -11,7 +11,7 @@
   </div><br/>
 
 
-## Tecnologias que uso e estou aprimorando:
+### Tecnologias que uso:
 
 
 
@@ -24,7 +24,7 @@
   <img align="center" alt="Gildo-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div><br/>
 
-## Alguns projetos:<br/>
+### Alguns projetos:<br/>
 
 - [projeto-android](https://gildobernardes.github.io/projeto-android/#)
 - [projeto-cordel](https://gildobernardes.github.io/projeto-cordel/)

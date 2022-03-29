@@ -1,6 +1,4 @@
-
-
-### Olá! Eu sou o Gildo Bernardes 👋
+### Olá! Eu sou o Gildo Bernardes 👋<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gildo-bernardes-853924197)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GILDOBERNARDES)
@@ -26,6 +24,6 @@
 - [projeto-android](https://gildobernardes.github.io/projeto-android/#)
 - [projeto-cordel](https://gildobernardes.github.io/projeto-cordel/)
 - [projeto-calculadora](https://gildobernardes.github.io/projeto-calculadora/)
-- [projeto-imc](https://gildobernardes.github.io/projeto-imc/)
+- [projeto-imc](https://gildobernardes.github.io/projeto-imc/)<br/>
 
 ### E-mail: gildomodf2@gmail.com

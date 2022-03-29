@@ -1,4 +1,6 @@
 
+
+
 ### Olá, seja bem-vindo! 👋<br/>
 <div>
 <a href = "https://www.linkedin.com/in/gildo-bernardes-853924197"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -23,8 +25,11 @@
 </div><br/>
 
 ### Alguns projetos:<br/>
-
-- [projeto-android](https://gildobernardes.github.io/projeto-android/#)
-- [projeto-cordel](https://gildobernardes.github.io/projeto-cordel/)
-- [projeto-calculadora](https://gildobernardes.github.io/projeto-calculadora/)
-- [projeto-imc](https://gildobernardes.github.io/projeto-imc/)<br/>
+<div>
+   <ul>
+        <li><a href="https://gildobernardes.github.io/projeto-android/#" target="_blank">projeto-android</a></li>
+        <li><a href="https://gildobernardes.github.io/projeto-cordel/" target="_blank">projeto-cordel</a></li>
+        <li><a href="https://gildobernardes.github.io/projeto-calculadora/" target="_blank">projeto-calculadora</a></li>
+        <li><a href="https://gildobernardes.github.io/projeto-imc/" target="_blank">projeto-imc</a></li>
+    </ul>
+</div>

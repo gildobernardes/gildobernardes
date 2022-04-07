@@ -22,13 +22,14 @@
   <img align="center" alt="Gildo-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div><br/>
 
-### Alguns projetos:<br/>
+### Projetos:<br/>
 <div>
    <ul>
-        <li><a href="https://gildobernardes.github.io/projeto-android/#" target="_blank" rel="external">projeto-android</a></li>
-        <li><a href="https://gildobernardes.github.io/projeto-cordel/" target="_blank" rel="external">projeto-cordel</a></li>
-        <li><a href="https://gildobernardes.github.io/projeto-calculadora/" target="_blank" rel="external">projeto-calculadora</a></li>
-        <li><a href="https://gildobernardes.github.io/projeto-imc/" target="_blank" rel="external">projeto-imc</a></li>
-        <li><a href="https://gildobernardes.github.io/projeto-formulario/" target="_blank" rel="external">projeto-formulario</a></li>
+        <li><a href="https://gildobernardes.github.io/projeto-android/#" target="_blank" rel="external">Projeto-Android</a></li>
+        <li><a href="https://gildobernardes.github.io/projeto-cordel/" target="_blank" rel="external">Projeto-Cordel</a></li>
+        <li><a href="https://gildobernardes.github.io/projeto-calculadora/" target="_blank" rel="external">Projeto-Calculadora</a></li>
+        <li><a href="https://gildobernardes.github.io/projeto-imc/" target="_blank" rel="external">Projeto-IMC</a></li>
+        <li><a href="https://gildobernardes.github.io/projeto-formulario/" target="_blank" rel="external">Projeto-Formulário</a></li>
+        <li><a href="https://gildobernardes.github.io/relogio-digital/" target="_blank" rel="external">Projeto-Relógio-Digital
     </ul>
 </div>
